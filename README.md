@@ -8,9 +8,9 @@ XML Generator assignment by sales_ken
 
 ## Sample Output:
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<breakfast_menu>
-    <food>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>__
+<breakfast_menu>__
+    <food>__
         <calories>650</calories>
         <description>$5.95</description>
         <name>Belgian Waffles</name>
