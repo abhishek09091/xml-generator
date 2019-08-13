@@ -8,9 +8,11 @@ XML Generator assignment by sales_ken
 
 ## Sample Output:
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>__
-<breakfast_menu>__
-    <food>__
+```xml
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<breakfast_menu>
+    <food>
         <calories>650</calories>
         <description>$5.95</description>
         <name>Belgian Waffles</name>
@@ -41,4 +43,4 @@ XML Generator assignment by sales_ken
         <price>Two eggs and bacon or sausage and toast and our ever-popular hash browns</price>
     </food>
 </breakfast_menu>
-
+```
